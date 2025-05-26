@@ -22,7 +22,7 @@ const Menu: React.FC = () => {
           className="h-full w-full object-cover md:h-[800px]"
         />
       </div>
-      <div className="absolute -bottom-20 right-0 z-0 md:-bottom-28">
+      {/* <div className="absolute -bottom-20 right-0 z-0 md:-bottom-28">
         <Image
           src={"/images/home/menu/bg.png"}
           width={281}
@@ -30,7 +30,7 @@ const Menu: React.FC = () => {
           alt="logo"
           className="h-full w-full object-cover md:h-[600px]"
         />
-      </div>
+      </div> */}
       <div className="lines z-0">
         <div className="line"></div>
         <div className="line"></div>
